@@ -1,2 +1,3 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modulo 2 de Prepcourse
+
+Este repositorio es una prueba y guardarlo desde mi computadora a githab
+
